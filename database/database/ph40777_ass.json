@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hoàng Thành",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "e8cd",
+      "username": "thanh",
+      "email": "thanh@gmail.com1",
+      "password": "123"
+    },
+    {
+      "id": "417f",
+      "username": "thanh",
+      "email": "thanh@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "91dc",
+      "username": "thanh124",
+      "email": "thanhqQ@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://i.pinimg.com/564x/7f/28/f4/7f28f4dec615fb4e46b8d0bd206ab6c8.jpg",
+      "nameProduct": "Cappuchino",
+      "content": "With Steamed Milk",
+      "price": 4.2
+    },
+    {
+      "id": 2,
+      "image": "https://i.pinimg.com/564x/0c/eb/b9/0cebb95a5f523be32f86f1235e8c787f.jpg",
+      "nameProduct": "Cappuchino",
+      "content": "With Steamed Milk",
+      "price": 4.2
+    },
+    {
+      "id": 3,
+      "image": "https://vinanutrifood.vn/wp-content/uploads/2021/03/ca-phe-capuchino-la-gi-150321-01.jpg",
+      "nameProduct": "Cappuchino",
+      "content": "With Steamed Milk",
+      "price": 4.2
+    }
+  ],
+  "product2s": [
+    {
+      "id": 1,
+      "image": "https://cdn.tgdd.vn/2021/08/CookProduct/cf-1-1200x676.jpg",
+      "nameProduct": "Cappuchino",
+      "content": "With Steamed Milk",
+      "price": 4.2
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.tgdd.vn/Files/2018/05/08/1087121/cac-loai-hat-cafe-noi-tieng-1_800x450.jpg",
+      "nameProduct": "Cappuchino",
+      "content": "With Steamed Milk",
+      "price": 4.2
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.tgdd.vn/Files/2018/05/08/1087121/cac-loai-hat-cafe-noi-tieng-1_800x450.jpg",
+      "nameProduct": "Cappuchino",
+      "content": "With Steamed Milk",
+      "price": 4.2
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "image": "https://vinanutrifood.vn/wp-content/uploads/2021/03/ca-phe-capuchino-la-gi-150321-01.jpg",
+      "title": "Cappuchino",
+      "content": "With Steamed Milk",
+      "price": 4.2,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "image": "https://i.pinimg.com/564x/0c/eb/b9/0cebb95a5f523be32f86f1235e8c787f.jpg",
+      "title": "Cappuchino",
+      "content": "With Steamed Milk",
+      "title2": "Description",
+      "content2": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top."
+    },
+    {
+      "image": "https://vinanutrifood.vn/wp-content/uploads/2021/03/ca-phe-capuchino-la-gi-150321-01.jpg",
+      "title": "Cappuchino",
+      "content": "With Steamed Milk",
+      "title2": "Description",
+      "content2": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top."
+    }
+  ],
+  "carts2": [
+    {
+      "image": "https://vinanutrifood.vn/wp-content/uploads/2021/03/ca-phe-capuchino-la-gi-150321-01.jpg",
+      "title": "Cappuchino",
+      "content": "With Steamed Milk",
+      "size": "M",
+      "price": 6.2
+    }
+  ],
+  "carts3": [
+    {
+      "image": "https://cdn.tgdd.vn/2021/08/CookProduct/cf-1-1200x676.jpg",
+      "title": "Robusta Beans",
+      "content": "From Africa",
+      "size": "250g",
+      "price": 6.2
+    }
+  ],
+  "carts4": [
+    {
+      "id": 1,
+      "image": "https://cdn.tgdd.vn/Files/2018/05/08/1087121/cac-loai-hat-cafe-noi-tieng-1_800x450.jpg",
+      "title": "Cappuchino",
+      "content": "With Steamed Milk",
+      "price": 4.2,
+      "sizes": [
+        "250g",
+        "500g",
+        "1Kg"
+      ]
+    }
+  ],
+  "orders": [],
+  "contacts": []
+}
